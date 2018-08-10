@@ -44,7 +44,7 @@ To recreate the screenshots, please download the finished project code (`*.py` o
 
 ![screenshot](images/Crowdin_download.png)
 
-- Please also recreate GIFs and videos. 
+- Some projects contain GIFs and videos. To create a GIF, you will need to record a video first. There are various tools you can use for that, for example [**Screencast-o-matic**](https://screencast-o-matic.com/screen-recorder). Once recorded, you will need to convert your video into a GIF; you can use such as [**Ezgif.com**](https://ezgif.com/). Simply got to the **Video to GIF** tab, choose the file and click **Upload video!**. You will be given the option to optimise your GIF, which we advise that you do to reduce its size.  
 
 ## yml file
 
