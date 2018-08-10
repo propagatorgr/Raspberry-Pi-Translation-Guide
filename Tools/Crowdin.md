@@ -4,11 +4,11 @@ Each project in Crowdin has a home page which provides a description of the proj
 
 ![screenshot](images/Crowdin-project-page.png)
 
-Please read the description as it may contain some important information about the project. Then, click the icon for your language, and you will be taken to a screen looking like the image below. Here you’ll find all the files within the project that need translating (we explain how to approach translating the different types of files [here](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md) - please **read this carefully**). Note the progress bars on the right, which indicate the progress of translation (blue) or review (green).
+Please read the description as it may contain some important information about the project. Then, click the icon for your language, and you will be taken to a screen looking like the image below. Here you’ll find all the files within the project that need translating. Note the progress bars on the right, which indicate the progress of translation (blue) or review (green).
 
 ![screenshot](images/Crowdin_progress.png)
 
-## Translating files (for Translators)
+## Translating files
 
 If the progress bar next to the file is empty, it means the file has not been translated yet. You will need to open th file in **Translation Mode** Click the three dots next to your chosen file’s progress bar and select **Translate**. 
 
@@ -30,13 +30,11 @@ If the progress bar next to the file is empty, it means the file has not been tr
 
 ![screenshot](images/Crowdin_glossary2.png)
 
-+ Remember that you will be dealing with various types of files (e.g. .yml or .md), each of which needs to be addressed differently - please read [this document](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md) to know what to do.
-
 + When you’re happy with your translation, click **Save**. As soon as you translate and save a segment, its colour in the left-hand panel will change to green:
 
 ![screenshot](images/Crowdin_translated.png)
 
-+ The next segment of the text will automatically appear in the translation area. If the segment is untranslatable (for example, it’s a name of a file or a URL), you can click the **Copy source** icon at the bottom of the translation area: 
++ The next segment of the text will automatically appear in the translation area. If the segment is untranslatable (for example, it’s a name of a file, a proper noun such as CoderDojo, or a URL), you can click the **Copy source** icon at the bottom of the translation area: 
 
 ![screenshot](images/Crowdin_copy_source.png)
 
@@ -54,37 +52,11 @@ If the progress bar next to the file is empty, it means the file has not been tr
 
 ![screenshot](images/Crowdin_back.png)
 
-+ Some file types (e.g. .sb2) cannot be translated within the Crowdin Editor and therefore need to be downloaded. To download a file, click on its name as usual. You’ll be taken to the Crowdin Editor, and as you won’t be able to translate the file there, download it by clicking Download in the upper right-hand corner (see the image below). Then translate it on your computer, and upload it back to Crowdin.
++ Don't forget to mark the translation as `Finished` in the spreadsheet provided by our translation manager. This will let others know that the project is ready to be reviewed.
 
-![screenshot](images/Crowdin_download.png)
+## Reviewing files
 
-## Post-editing files: machine translation (for Translators)
-
-If the progress bar is blue, it means the file has been pre-translared with machine translation. If that's the case, click the three dots next to your chosen file’s progress bar and select **Open in Voting Mode**. 
-
-![screenshot](images/Crowdin_translation_mode.png)
-
-+ You will be taken to Crowdin Editor:
-
-![screenshot](images/Crowdin_voting_mode.png)
-
-+ The English source text will be on the left (1) and its machine translation on the right (2).
-
-+ If you are happy with the machine translation, click + to approve it (2).
-
-+ If you need to change a translation, click the - to indicate that machine translation is wrong (2). Then, click on the translated text (in 2) and make your changes. Click **Save**:
-
-![screenshot](images/Crowdin_add_change.png)
-
-+ When you save a change, it will be added to the list of suggestions in the panel on the right. If you later decide that you need to change your own suggestion, please remember that it will be saved as a separate suggestion. If this happens, please delete your first suggestion by clicking the bin icon next to the old suggestion you no longer want to make (in 3):
-
-![screenshot](images/Crowdin_delete.png)
-
-+ Sometimes, machine translation will translate things that should be left in English, such as code, tags, brand names, and so on - you will need to change those back to English. Our [instructions](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md) explain how to deal with translating different types of files and how to approach code, tags, etc.
-
-## Reviewing files (for Reviewers)
-
-Once the translation/post-editing of a file is finished, its progress bar will be blue:
+Once the translation of a file is finished, its progress bar will be blue:
 
 ![screenshot](images/Crowdin_progress_blue.png)
 
@@ -108,3 +80,5 @@ Once the translation/post-editing of a file is finished, its progress bar will b
 
 For more information on using Crowdin Editor, please see: 
 https://support.crowdin.com/online-editor/
+
++ Don't forget to mark the review as `Finished` in the spreadsheet provided by our translation manager. This will let our team know that the project is ready to be uploaded to our website.
