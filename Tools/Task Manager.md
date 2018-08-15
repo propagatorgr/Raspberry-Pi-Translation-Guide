@@ -12,7 +12,7 @@ We make tasks available on a first come, first served basis, so if the relevant 
 
 Please note that the **Deadline** column may contain a date by which we need the task translated and reviewed. If you cannot translate/review a task by that date, please do not add your name to it. If there is no deadline added, we would like the task to be completed within 30 days from the day you assign your name to it - if you decide to take on such a task, please fill the **Deadline** column with the appropriate date. 
 
-## For translators
+## For translators (this includes projects that say 'machine translation')
 
 If you’re a translator and have added your name to the Task Manager, you can start translating straight away. When you start translating, please set the **Translation status** cell to **In progress** (see below) to let us know that you’ve begun the task. Once you’ve finished, please set the cell to **Finished** to let the reviewer know that they can start their job.
 
