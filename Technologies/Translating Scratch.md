@@ -4,9 +4,12 @@ Scratch is a visual programming language that helps young people learn to think 
 
 Scratch is available in a number of languages which means that the code in Scratch projects will need to be translated in line with the **official Scratch translation**. You can change the language of Scratch Editor by clicking the globe icon and selecting the language you're translating:
 
-![screenshot](images/Scratch_display_language.png)
+![screenshot](images/language.png)
 
 Changing the language will automatically translate the user interface and Scratch blocks but it won't translate names of variables, sprites, costumes, backdrops, sounds, or text in say/think/ask blocks and operator blocks - you will have to **translate these manually**.
+
+**Note:**
+If your language is not listed, you will still need to translate the abovementioned elements so please continue reading. 
 
 ## Names of sprites & costumes, backdrops and sounds
 
@@ -42,10 +45,7 @@ Finally, you will need to translate the text in white boxes:
 
 Simply double click on the white box and translate the text. Please make sure that your translations here and in the project instructions are the same, to avoid confusion.
 
-
-**Note:**
-
-If your language isn’t supported, you will still need to translate the abovementioned elements.
+## Translating Scratch syntax in project instructions
 
 When translating Scratch syntax in the markdown files, please use [this Scratch translator](http://scratchblocks.github.io/translator/). This is what Scratch syntax looks like:
 
