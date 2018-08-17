@@ -40,7 +40,7 @@ Finally, you will need to translate the text in white boxes:
 
 ![screenshot](images/text.png)
 
-Simply double click on the white box and translate the text. Please make sure that your translations here and in the projects instructions are the same, to avoid confusion.
+Simply double click on the white box and translate the text. Please make sure that your translations here and in the project instructions are the same, to avoid confusion.
 
 
 **Note:**
