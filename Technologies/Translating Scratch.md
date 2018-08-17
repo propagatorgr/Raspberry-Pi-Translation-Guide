@@ -55,4 +55,6 @@ Please add your translation of the syntax in Crowdin exactly as it is displayed 
 
 ![screenshot](images/syntax-blocks.png)
 
+If you translate the syntax incorrectly (i.e. differently to what the Scratch translator suggests), the blocks will not be displayed correctly on the website.
+
 If you have any questions, please contact Nina at nina@raspberrypi.org.
