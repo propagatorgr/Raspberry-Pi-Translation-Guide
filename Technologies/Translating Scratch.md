@@ -47,9 +47,7 @@ Simply double click on the white box and translate the text. Please make sure th
 
 ## Translating Scratch syntax in project instructions
 
-When translating Scratch syntax in the markdown files, please use [this Scratch translator](http://scratchblocks.github.io/translator/). This is what Scratch syntax looks like:
-
-![screenshot](images/scratch-syntax.png)
+When translating Scratch syntax in the markdown files, please use [this Scratch translator](http://scratchblocks.github.io/translator/). 
 
 Please add your translation of the syntax in Crowdin exactly as it is displayed in the Scratch translator. Our website will display this syntax as Scratch blocks, like in the example below:
 
