@@ -88,7 +88,7 @@ Once the translation/post-editing of a file is finished, its progress bar will b
 
 ![screenshot](images/Crowdin_progress_blue.png)
 
-+ You can review a file by opening it in Proofreading Mode: click on the three dots located to the right of the file’s progress bar, and select **Open in Proofreading Mode**.
++ You can review a file by opening it in Proofreading Mode: click on the three dots located to the right of the file’s progress bar, and select **Open in Proofreading Mode**. Please note that `.png`, `.gif` and `.sb2` files cannot be opened in proofreading mode so please click on `Translate` to review them.
 
 ![screenshot](images/Crowdin_proofreading.png)
 
