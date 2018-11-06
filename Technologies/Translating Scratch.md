@@ -1,5 +1,7 @@
 # Translating Scratch
 
+**Before the launch of Scratch 3, please use the beta version available here: https://beta.scratch.mit.edu/**
+
 Scratch is a visual programming language that helps young people learn to think creatively, reason systematically and work collaboratively. It enables kids to program their own interactive stories, games and animations. 
 
 Scratch is available in a number of languages which means that the code in Scratch projects will need to be translated in line with the **official Scratch translation**. You can change the language of Scratch Editor by clicking the globe icon and selecting the language you're translating:
@@ -13,27 +15,31 @@ If your language is not listed, you will still need to translate the abovementio
 
 ## Names of sprites & costumes, backdrops and sounds
 
-To change a sprite's name, right click on it and select `info`:
+You can translate a sprite's name in the panel on the right:
 
 ![screenshot](images/sprite-name.png)
 
-Type in your translation of the sprite's name, and click on the blue arrow to save it:
-
-![screenshot](images/sprite-name-save.png)
-
-Some sprites will have various costumes, such as the boat in the Boat Race project. To translate a sprite's costume names, click on the sprite and then go to the `Costumes` tab in the middle panel. You will see the different costumes that the sprite has in the project, and you will be able to translate each of them:
+Some sprites will have various costumes, such as the boat in the Boat Race project. To translate a sprite's costume names, click on the sprite and then go to the `Costumes` tab in the panel on the left. You will see the different costumes that the sprite has in the project, and you will be able to translate each of them:
 
 ![screenshot](images/costume-name.png)
 
-The same applies to sounds and backdrops:
+The same applies to sounds:
 
-![screenshot](images/backdrops-sounds.png)
+![screenshot](images/sound.png)
 
-## Scripts
+Backdrops can be found in the panel on the right:
 
-There may be some translation required in the `Scripts` tab, if there are any variables or text in say/think/ask blocks and operator blocks. You will need to check the scripts for every sprite and backdrop separetly.
+![screenshot](images/backdrop.png)
 
-To check for variables, please click on the Data section of the `Scripts` tab. The screenshot below shows that there is a variable called `name`. 
+Click on the backdrop that you want to re-name and then click on the **Backdrops** tab in the panel on the left:
+
+![screenshot](images/backdrop-name.png)
+
+## Code
+
+There may be some translation required in the `Code` tab, if there are any variables or text in say/think/ask blocks and operator blocks. You will need to check the code for every sprite and backdrop separetly.
+
+To check for variables, please click on the `Variables` section of the `Code` tab. The screenshot below shows that there is a variable called `my variable`. 
 
 ![screenshot](images/variable.png)
 
